@@ -1,0 +1,16 @@
+.audio-button {
+  height: 50px;
+  width: 50px;
+}
+
+.audio-control {
+  border-bottom: 100px;
+  padding-top: 50px;
+}
+
+
+.audio {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
